@@ -26,6 +26,7 @@ API_KEY = "tMmXP1AM0TaZ"
 PROJECT_TOKEN = "teT6Sw9hdOkN"
 RUN_TOKEN = "timNTQPyxa08"
 
+#printing all data once for checking that every data has transfered properly.
 #print(data['total'])
 
 class Data:
@@ -177,4 +178,5 @@ def main():
             print("Exit")
             break
 
+#calling function
 main()
